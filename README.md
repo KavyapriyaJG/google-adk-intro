@@ -17,7 +17,7 @@ parent_folder/
         agent.py
         .env
 ```
-# name of agent should match folder name. thats how adk identifies an agent is initialized
+name of agent should match folder name. thats how adk identifies an agent is initialized
 
 
 ## To run
